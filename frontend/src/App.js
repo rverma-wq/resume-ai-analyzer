@@ -13,6 +13,7 @@ import {
   ArrowRight,
 } from "lucide-react";
 
+console.log("ENV:", process.env.REACT_APP_API_URL);
 function App() {
   const [file, setFile] = useState(null);
   const [prediction, setPrediction] = useState("");
@@ -41,6 +42,7 @@ function App() {
       const API_URL = process.env.REACT_APP_API_URL;
 
       const response = await axios.post(`${API_URL}/predict`, formData);
+
 
       setPrediction(response.data.prediction);
     } catch (error) {
