@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  padding: 80px;
+  background: radial-gradient(circle at top left, #1e293b, #020617);
+  color: white;
+  font-family: "Inter", Arial, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Main Container */
+
+.container {
+  width: 100%;
+  max-width: 520px;
+  text-align: center;
+
+  background: rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(20px);
+
+  padding: 45px 35px;
+  border-radius: 20px;
+
+  border: 1px solid rgba(255, 255, 255, 0.08);
+
+  box-shadow:
+    0 20px 60px rgba(0, 0, 0, 0.6),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+/* Heading */
+
+h1 {
+  font-size: 34px;
+  margin-bottom: 10px;
+  letter-spacing: -0.5px;
+}
+
+p {
+  color: #94a3b8;
+  margin-bottom: 25px;
+  font-size: 15px;
+}
+
+/* Upload Input */
+
+input {
+  margin-top: 20px;
+  padding: 14px;
+
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+
+  background: rgba(255, 255, 255, 0.05);
+  color: white;
+  width: 100%;
+
+  outline: none;
+  transition: all 0.25s ease;
+}
+
+/* Input focus */
+
+input:focus {
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.25);
+}
+
+/* Button */
+
+button {
+  margin-top: 30px;
+  padding: 14px 28px;
+
+  background: linear-gradient(135deg, #3b82f6, #6366f1);
+  color: white;
+
+  border: none;
+  cursor: pointer;
+  border-radius: 12px;
+
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+
+  transition: all 0.25s ease;
+
+  box-shadow:
+    0 8px 25px rgba(59, 130, 246, 0.4);
+}
+
+/* Button Hover */
+
+button:hover {
+  transform: translateY(-2px) scale(1.01);
+  box-shadow:
+    0 12px 35px rgba(59, 130, 246, 0.6);
+}
+
+/* Button Disabled */
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* Result Card */
+
+.result {
+  margin-top: 30px;
+
+  font-size: 22px;
+  font-weight: 600;
+
+  background: linear-gradient(
+    135deg,
+    rgba(59, 130, 246, 0.12),
+    rgba(99, 102, 241, 0.12)
+  );
+
+  padding: 22px;
+  border-radius: 12px;
+
+  border: 1px solid rgba(59, 130, 246, 0.25);
+
+  backdrop-filter: blur(10px);
+
+  animation: fadeIn 0.4s ease;
+}
+
+/* Smooth entry animation */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
