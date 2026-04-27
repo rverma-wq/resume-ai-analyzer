@@ -1,8 +1,9 @@
 fastapi
 uvicorn
-scikit-learn
+scikit-learn==1.7.2
 pandas
 joblib
 python-multipart
 PyPDF2
 jinja2
+numpy
