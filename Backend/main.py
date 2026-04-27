@@ -58,7 +58,7 @@ async def predict(file: UploadFile = File(...)):
         row = job_data.iloc[i]
 
         results.append({
-            "job": row[0],
+            "job": row.iloc[0],
             "score": round(float(similarities[i]) * 100, 2)
         })
 
