@@ -4,9 +4,10 @@ import joblib
 import PyPDF2
 import os
 
+from sklearn.metrics.pairwise import cosine_similarity
+
 app = FastAPI()
 
-# CORS (temporary open)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
@@ -18,11 +19,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Safe model loading
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-model_path = os.path.join(BASE_DIR, "model", "resume_model.pkl")
 
-model = joblib.load(model_path)
+vectorizer = joblib.load(os.path.join(BASE_DIR, "model", "vectorizer.pkl"))
+job_vectors = joblib.load(os.path.join(BASE_DIR, "model", "job_vectors.pkl"))
+job_data = joblib.load(os.path.join(BASE_DIR, "model", "job_data.pkl"))
 
 
 def extract_text_from_pdf(file):
@@ -30,19 +31,35 @@ def extract_text_from_pdf(file):
     text = ""
 
     for page in reader.pages:
-        if page.extract_text():
-            text += page.extract_text()
+        page_text = page.extract_text()
+        if page_text:
+            text += page_text + " "
 
     return text
 
 
 @app.get("/")
 def home():
-    return {"message": "Resume AI Analyzer backend running"}
+    return {"message": "Resume AI Analyzer backend running with new model"}
 
 
 @app.post("/predict")
 async def predict(file: UploadFile = File(...)):
     pdf_text = extract_text_from_pdf(file.file)
-    prediction = model.predict([pdf_text])[0]
-    return {"prediction": prediction}
+
+    resume_vector = vectorizer.transform([pdf_text])
+    similarities = cosine_similarity(resume_vector, job_vectors)[0]
+
+    top_indices = similarities.argsort()[-5:][::-1]
+
+    results = []
+    print(job_data.columns)
+    for i in top_indices:
+        row = job_data.iloc[i]
+
+        results.append({
+            "job": row[0],
+            "score": round(float(similarities[i]) * 100, 2)
+        })
+
+    return {"results": results}

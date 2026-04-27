@@ -16,14 +16,14 @@ import {
 console.log("ENV:", process.env.REACT_APP_API_URL);
 function App() {
   const [file, setFile] = useState(null);
-  const [prediction, setPrediction] = useState("");
+  const [results, setResults] = useState([]);
   const [loading, setLoading] = useState(false);
   const [dragActive, setDragActive] = useState(false);
 
   const handleFileChange = (selectedFile) => {
     if (!selectedFile) return;
     setFile(selectedFile);
-    setPrediction("");
+    setResults([]);
   };
 
   const handleUpload = async () => {
@@ -37,14 +37,14 @@ function App() {
 
     try {
       setLoading(true);
-      setPrediction("");
+      setResults([]);
 
       const API_URL = "https://resume-ai-analyzer-backend-6fz3.onrender.com";
 
       const response = await axios.post(`${API_URL}/predict`, formData);
 
 
-      setPrediction(response.data.prediction);
+      setResults(response.data.results || []);
     } catch (error) {
       console.error(error);
       alert("Server error. Please check backend.");
@@ -200,7 +200,7 @@ function App() {
               </button>
 
               <AnimatePresence>
-                {prediction && (
+                {results.length > 0 && (
                   <motion.div
                     initial={{ opacity: 0, y: 18 }}
                     animate={{ opacity: 1, y: 0 }}
@@ -212,7 +212,7 @@ function App() {
                       Prediction Result
                     </p>
                     <h3 className="text-3xl font-bold text-blue-400">
-                      {prediction}
+                      {results[0].job} - {results[0].score}%
                     </h3>
                     <p className="mt-3 text-sm text-slate-300">
                       Based on the uploaded resume, this appears to be the most
