@@ -1,0 +1,501 @@
+job_role,skills
+Full Stack Developer,html mongodb javascript css react nodejs
+QA Engineer,testing test cases selenium automation
+Mobile App Developer,android ios java swift
+Data Scientist,sklearn statistics pandas numpy python data visualization
+Data Analyst,excel powerbi python sql data cleaning tableau
+Cloud Engineer,aws networking cloud architecture azure
+QA Engineer,automation debugging testing test cases
+Cybersecurity Analyst,encryption vulnerability assessment ethical hacking network security
+Machine Learning Engineer,deep learning python mlops tensorflow model deployment
+Full Stack Developer,nodejs javascript mongodb html
+Cybersecurity Analyst,vulnerability assessment encryption network security ethical hacking
+Software Engineer,data structures algorithms c++ java
+AI Engineer,nlp tensorflow deep learning computer vision python
+Machine Learning Engineer,model deployment python tensorflow deep learning
+Software Engineer,data structures c++ system design java
+Mobile App Developer,java kotlin android ios swift
+Backend Developer,api development sql python database flask
+Backend Developer,sql python database django
+Full Stack Developer,nodejs html css mongodb javascript react
+Full Stack Developer,css mongodb react nodejs
+Blockchain Developer,smart contracts web3 solidity ethereum
+Backend Developer,flask database sql python django api development
+Data Scientist,sklearn python numpy data visualization pandas
+Cybersecurity Analyst,encryption network security vulnerability assessment ethical hacking
+Machine Learning Engineer,tensorflow mlops python pytorch
+Frontend Developer,responsive design html javascript react redux css
+Full Stack Developer,react css javascript mongodb html
+AI Engineer,computer vision python tensorflow nlp
+Frontend Developer,css javascript html react responsive design
+Blockchain Developer,ethereum solidity smart contracts web3
+Database Administrator,performance tuning sql database management backup recovery
+Cloud Engineer,azure gcp aws networking
+DevOps Engineer,linux kubernetes aws monitoring
+Cloud Engineer,networking security azure gcp aws
+Database Administrator,backup recovery sql performance tuning
+Cloud Engineer,gcp cloud architecture networking aws azure
+Mobile App Developer,java ios swift kotlin android
+Mobile App Developer,android kotlin ios java swift
+Blockchain Developer,smart contracts solidity web3 ethereum
+Mobile App Developer,android ios swift java
+Software Engineer,system design data structures algorithms c++
+Blockchain Developer,web3 ethereum solidity smart contracts
+QA Engineer,debugging testing test cases selenium automation
+Data Scientist,python sklearn data visualization machine learning pandas numpy
+Data Scientist,python pandas numpy data visualization machine learning
+Full Stack Developer,react javascript nodejs mongodb html css
+Mobile App Developer,kotlin swift ios android java
+Machine Learning Engineer,deep learning python mlops tensorflow pytorch model deployment
+Full Stack Developer,mongodb react javascript nodejs html css
+Full Stack Developer,mongodb react javascript html
+Cybersecurity Analyst,encryption network security ethical hacking vulnerability assessment
+Blockchain Developer,smart contracts solidity ethereum web3
+Software Engineer,c++ java system design algorithms
+Cybersecurity Analyst,network security vulnerability assessment ethical hacking encryption
+Blockchain Developer,solidity web3 smart contracts ethereum
+Data Analyst,tableau excel data cleaning powerbi python sql
+Software Engineer,algorithms system design c++ java
+QA Engineer,debugging test cases selenium automation testing
+Full Stack Developer,javascript html mongodb react css
+Cloud Engineer,security gcp azure networking cloud architecture aws
+Mobile App Developer,ios kotlin swift java android
+Data Analyst,powerbi python excel sql tableau
+Frontend Developer,responsive design react css html javascript
+Mobile App Developer,ios kotlin swift java
+Machine Learning Engineer,python model deployment tensorflow pytorch mlops deep learning
+AI Engineer,nlp computer vision tensorflow python
+Frontend Developer,redux javascript css react responsive design html
+Data Analyst,powerbi data cleaning python tableau excel sql
+Cloud Engineer,azure security cloud architecture networking gcp
+Full Stack Developer,html mongodb nodejs javascript css
+Database Administrator,database management sql recovery performance tuning backup
+Blockchain Developer,solidity smart contracts web3 ethereum
+Software Engineer,algorithms data structures java c++ system design
+Full Stack Developer,react javascript nodejs css html
+Data Scientist,python pandas machine learning numpy data visualization sklearn statistics
+Frontend Developer,html css javascript react responsive design redux
+AI Engineer,computer vision deep learning nlp tensorflow python
+Full Stack Developer,javascript html mongodb nodejs css
+Data Scientist,sklearn numpy statistics machine learning data visualization python
+Full Stack Developer,css mongodb javascript html nodejs
+Machine Learning Engineer,model deployment python pytorch tensorflow mlops deep learning
+Cybersecurity Analyst,ethical hacking encryption vulnerability assessment network security
+Machine Learning Engineer,mlops model deployment deep learning pytorch tensorflow python
+AI Engineer,python deep learning tensorflow computer vision
+QA Engineer,automation testing test cases selenium
+Full Stack Developer,css javascript nodejs react mongodb html
+Software Engineer,java algorithms data structures system design
+QA Engineer,testing automation selenium debugging
+Cybersecurity Analyst,network security vulnerability assessment ethical hacking encryption
+Full Stack Developer,html react css javascript mongodb nodejs
+Backend Developer,python database flask sql
+Data Scientist,python numpy sklearn machine learning
+Database Administrator,backup sql performance tuning database management
+Full Stack Developer,nodejs javascript css mongodb react
+Database Administrator,recovery sql backup database management
+Database Administrator,recovery backup performance tuning database management sql
+Data Analyst,data cleaning python sql powerbi excel tableau
+Cloud Engineer,cloud architecture security aws gcp
+Machine Learning Engineer,mlops python pytorch tensorflow
+AI Engineer,python deep learning tensorflow computer vision
+Data Analyst,powerbi data cleaning sql python excel
+Blockchain Developer,solidity web3 smart contracts ethereum
+Blockchain Developer,solidity web3 ethereum smart contracts
+Cybersecurity Analyst,network security encryption ethical hacking vulnerability assessment
+QA Engineer,selenium testing debugging automation test cases
+Frontend Developer,javascript css redux html react responsive design
+DevOps Engineer,linux docker monitoring aws
+Full Stack Developer,html mongodb react nodejs css javascript
+Cloud Engineer,gcp networking aws security cloud architecture
+Full Stack Developer,css javascript nodejs html react mongodb
+DevOps Engineer,kubernetes docker monitoring linux ci cd
+Frontend Developer,react javascript redux responsive design html
+Frontend Developer,html redux responsive design javascript react
+Machine Learning Engineer,deep learning mlops python pytorch tensorflow
+AI Engineer,deep learning python tensorflow nlp computer vision
+Data Scientist,sklearn python pandas machine learning
+Machine Learning Engineer,python tensorflow mlops deep learning model deployment
+AI Engineer,nlp tensorflow python computer vision
+Data Analyst,python sql data cleaning powerbi tableau excel
+Data Scientist,pandas sklearn numpy machine learning statistics
+Database Administrator,backup sql database management performance tuning recovery
+QA Engineer,selenium testing debugging test cases
+DevOps Engineer,aws monitoring ci cd docker kubernetes
+DevOps Engineer,aws linux ci cd kubernetes monitoring docker
+Backend Developer,django flask sql database
+Data Analyst,excel powerbi sql python tableau data cleaning
+Frontend Developer,responsive design html react css javascript
+Mobile App Developer,java android swift ios kotlin
+AI Engineer,nlp tensorflow deep learning python
+Data Analyst,python tableau powerbi sql
+DevOps Engineer,ci cd aws linux kubernetes monitoring docker
+DevOps Engineer,linux kubernetes aws monitoring ci cd
+Database Administrator,sql performance tuning recovery database management
+DevOps Engineer,aws monitoring ci cd kubernetes docker linux
+Database Administrator,performance tuning database management sql backup recovery
+Cloud Engineer,azure gcp networking aws
+Full Stack Developer,html react javascript nodejs
+Full Stack Developer,react nodejs javascript html mongodb css
+Frontend Developer,responsive design javascript redux css
+Mobile App Developer,swift kotlin ios java
+AI Engineer,nlp computer vision python tensorflow deep learning
+Cybersecurity Analyst,network security vulnerability assessment encryption ethical hacking
+DevOps Engineer,kubernetes aws monitoring docker ci cd linux
+Cybersecurity Analyst,network security ethical hacking encryption vulnerability assessment
+Software Engineer,data structures algorithms java c++ system design
+Full Stack Developer,nodejs react mongodb css
+Data Analyst,powerbi data cleaning sql python
+Mobile App Developer,android java swift kotlin
+Database Administrator,sql database management performance tuning recovery
+Data Scientist,sklearn statistics numpy machine learning data visualization python
+Cloud Engineer,aws azure gcp security networking
+QA Engineer,automation testing test cases selenium
+Database Administrator,sql database management performance tuning recovery backup
+QA Engineer,automation testing selenium test cases
+AI Engineer,tensorflow deep learning python computer vision
+Cloud Engineer,networking aws azure gcp
+QA Engineer,test cases debugging selenium testing
+DevOps Engineer,ci cd aws docker linux monitoring kubernetes
+Cloud Engineer,cloud architecture networking aws azure security
+Data Scientist,pandas sklearn machine learning data visualization statistics python numpy
+Cybersecurity Analyst,ethical hacking encryption network security vulnerability assessment
+Cloud Engineer,security aws gcp networking cloud architecture
+Cloud Engineer,cloud architecture gcp aws azure
+Backend Developer,python flask database sql django
+Data Analyst,data cleaning python powerbi sql tableau
+Mobile App Developer,swift kotlin ios java android
+Machine Learning Engineer,pytorch model deployment python deep learning mlops
+Full Stack Developer,javascript html mongodb react nodejs css
+Frontend Developer,css react responsive design html redux
+Blockchain Developer,web3 smart contracts solidity ethereum
+Machine Learning Engineer,python deep learning model deployment pytorch mlops
+Data Scientist,pandas statistics numpy data visualization machine learning python
+Software Engineer,c++ system design data structures algorithms java
+Frontend Developer,javascript responsive design redux css
+QA Engineer,test cases debugging selenium automation
+Blockchain Developer,web3 smart contracts solidity ethereum
+Full Stack Developer,mongodb css nodejs react
+AI Engineer,deep learning tensorflow computer vision nlp
+Blockchain Developer,web3 solidity ethereum smart contracts
+Data Analyst,data cleaning excel python tableau powerbi sql
+Machine Learning Engineer,deep learning python tensorflow mlops
+Cybersecurity Analyst,ethical hacking encryption network security vulnerability assessment
+Blockchain Developer,smart contracts web3 solidity ethereum
+Backend Developer,django sql database api development
+Full Stack Developer,javascript mongodb nodejs react css
+Cybersecurity Analyst,ethical hacking encryption vulnerability assessment network security
+DevOps Engineer,kubernetes monitoring ci cd linux aws docker
+DevOps Engineer,kubernetes aws docker ci cd linux
+Data Scientist,python sklearn statistics data visualization numpy machine learning
+Cloud Engineer,gcp aws networking azure
+Blockchain Developer,solidity web3 ethereum smart contracts
+Data Scientist,statistics numpy sklearn machine learning
+AI Engineer,python tensorflow computer vision nlp deep learning
+Cloud Engineer,azure gcp security networking aws
+Cloud Engineer,aws cloud architecture networking gcp azure security
+Full Stack Developer,mongodb react javascript html css nodejs
+Cybersecurity Analyst,network security vulnerability assessment encryption ethical hacking
+Software Engineer,c++ algorithms java system design data structures
+DevOps Engineer,ci cd monitoring kubernetes linux
+Cloud Engineer,azure networking gcp security aws
+Frontend Developer,css html redux react
+Mobile App Developer,java swift kotlin ios android
+Software Engineer,data structures algorithms system design java c++
+Cloud Engineer,cloud architecture aws gcp azure security networking
+Machine Learning Engineer,deep learning model deployment python tensorflow
+Frontend Developer,javascript react redux css responsive design
+Full Stack Developer,mongodb react css javascript
+Cloud Engineer,security cloud architecture azure networking aws gcp
+AI Engineer,tensorflow python nlp deep learning
+Blockchain Developer,ethereum smart contracts web3 solidity
+Frontend Developer,redux css html responsive design javascript react
+Software Engineer,system design algorithms java data structures c++
+Backend Developer,api development sql database python
+Software Engineer,data structures c++ system design algorithms
+Backend Developer,sql api development python django
+Frontend Developer,redux javascript css html react responsive design
+Data Scientist,statistics numpy python sklearn machine learning data visualization pandas
+Blockchain Developer,smart contracts ethereum web3 solidity
+DevOps Engineer,docker ci cd linux kubernetes monitoring
+DevOps Engineer,aws docker monitoring ci cd
+Cloud Engineer,cloud architecture security aws azure
+Database Administrator,sql backup recovery performance tuning database management
+Machine Learning Engineer,tensorflow mlops deep learning pytorch model deployment python
+Backend Developer,flask django python sql database
+Data Analyst,python excel powerbi tableau
+QA Engineer,debugging selenium testing automation test cases
+AI Engineer,deep learning nlp tensorflow computer vision python
+Data Analyst,sql data cleaning excel powerbi
+Cloud Engineer,aws networking cloud architecture azure gcp
+Blockchain Developer,web3 smart contracts ethereum solidity
+Machine Learning Engineer,mlops python tensorflow deep learning pytorch
+Data Scientist,numpy sklearn machine learning data visualization statistics python pandas
+Data Analyst,powerbi python tableau data cleaning excel
+Frontend Developer,responsive design css react redux javascript html
+Cybersecurity Analyst,network security ethical hacking encryption vulnerability assessment
+Cybersecurity Analyst,vulnerability assessment encryption network security ethical hacking
+Backend Developer,django api development python sql database
+DevOps Engineer,aws monitoring docker kubernetes linux
+Blockchain Developer,solidity ethereum smart contracts web3
+Frontend Developer,react html redux responsive design css javascript
+Frontend Developer,javascript redux react html css responsive design
+Machine Learning Engineer,python tensorflow mlops model deployment deep learning pytorch
+Data Analyst,powerbi excel tableau sql python
+Blockchain Developer,web3 solidity ethereum smart contracts
+DevOps Engineer,linux monitoring ci cd docker kubernetes
+Blockchain Developer,ethereum smart contracts solidity web3
+Software Engineer,data structures algorithms java c++
+Blockchain Developer,smart contracts ethereum web3 solidity
+Backend Developer,database sql python flask
+Cloud Engineer,gcp security networking cloud architecture azure aws
+Data Analyst,sql tableau powerbi data cleaning python excel
+Backend Developer,api development flask database python
+DevOps Engineer,kubernetes aws monitoring docker ci cd
+Data Analyst,powerbi data cleaning sql python
+Mobile App Developer,java android ios swift kotlin
+QA Engineer,test cases testing automation debugging
+Backend Developer,database django api development python
+Cybersecurity Analyst,ethical hacking vulnerability assessment network security encryption
+QA Engineer,selenium testing test cases debugging
+Data Analyst,excel tableau sql powerbi python data cleaning
+Backend Developer,python api development flask django sql
+Backend Developer,python sql django api development
+Data Analyst,sql tableau powerbi python
+DevOps Engineer,kubernetes aws monitoring ci cd
+Data Scientist,machine learning sklearn data visualization pandas
+Cybersecurity Analyst,vulnerability assessment network security ethical hacking encryption
+Cloud Engineer,gcp security aws azure
+Mobile App Developer,android kotlin swift java
+DevOps Engineer,linux ci cd kubernetes aws docker monitoring
+Cloud Engineer,networking gcp cloud architecture azure
+Full Stack Developer,javascript react css nodejs mongodb html
+Full Stack Developer,nodejs css react javascript mongodb
+DevOps Engineer,kubernetes ci cd monitoring linux aws docker
+Full Stack Developer,react nodejs javascript mongodb html css
+Machine Learning Engineer,model deployment deep learning tensorflow mlops python pytorch
+Blockchain Developer,smart contracts solidity ethereum web3
+Data Analyst,excel powerbi tableau sql
+Data Analyst,excel data cleaning python tableau powerbi sql
+Backend Developer,flask database sql python
+Blockchain Developer,smart contracts web3 solidity ethereum
+QA Engineer,debugging automation selenium test cases testing
+Full Stack Developer,html javascript css mongodb
+QA Engineer,selenium testing automation test cases
+Data Scientist,data visualization pandas sklearn python machine learning statistics
+QA Engineer,automation testing test cases debugging selenium
+DevOps Engineer,linux kubernetes monitoring docker aws
+Mobile App Developer,kotlin swift ios java android
+Backend Developer,flask api development python sql django database
+Mobile App Developer,swift ios java kotlin android
+Data Scientist,numpy sklearn data visualization python
+Frontend Developer,redux html responsive design css react
+Backend Developer,sql flask django database api development python
+Cloud Engineer,cloud architecture gcp aws security networking azure
+Cybersecurity Analyst,network security encryption ethical hacking vulnerability assessment
+Cybersecurity Analyst,network security encryption ethical hacking vulnerability assessment
+Database Administrator,performance tuning recovery database management backup
+Machine Learning Engineer,model deployment deep learning pytorch mlops tensorflow python
+Blockchain Developer,ethereum smart contracts web3 solidity
+Mobile App Developer,kotlin java android swift
+Cloud Engineer,security azure gcp networking
+Data Scientist,machine learning sklearn data visualization numpy pandas
+Data Scientist,machine learning pandas statistics sklearn data visualization python numpy
+AI Engineer,computer vision nlp deep learning tensorflow python
+Software Engineer,java system design algorithms c++ data structures
+Database Administrator,database management performance tuning recovery sql
+Full Stack Developer,react html nodejs mongodb
+Software Engineer,c++ algorithms data structures java system design
+Data Analyst,sql tableau python powerbi data cleaning
+Cloud Engineer,networking security aws azure cloud architecture gcp
+Cloud Engineer,security aws azure cloud architecture
+Machine Learning Engineer,model deployment deep learning python tensorflow
+DevOps Engineer,docker kubernetes aws monitoring ci cd linux
+Software Engineer,algorithms system design java data structures c++
+Cloud Engineer,security networking aws azure gcp
+Frontend Developer,react responsive design html javascript css
+Backend Developer,api development flask django database sql
+Backend Developer,django api development python database
+Blockchain Developer,solidity web3 ethereum smart contracts
+Blockchain Developer,ethereum web3 smart contracts solidity
+Frontend Developer,responsive design css html react javascript
+Blockchain Developer,smart contracts ethereum solidity web3
+Full Stack Developer,mongodb html javascript css
+Database Administrator,sql performance tuning backup recovery
+QA Engineer,test cases debugging selenium testing
+Full Stack Developer,html nodejs css react javascript
+Database Administrator,recovery sql database management performance tuning
+Machine Learning Engineer,python tensorflow model deployment pytorch deep learning mlops
+Blockchain Developer,smart contracts ethereum web3 solidity
+Blockchain Developer,solidity ethereum web3 smart contracts
+Mobile App Developer,kotlin swift ios android
+Machine Learning Engineer,mlops tensorflow deep learning model deployment
+Mobile App Developer,java swift kotlin ios android
+Full Stack Developer,css nodejs html javascript react
+Blockchain Developer,web3 solidity ethereum smart contracts
+QA Engineer,automation test cases debugging testing selenium
+Blockchain Developer,solidity ethereum web3 smart contracts
+Cloud Engineer,azure security aws networking
+Backend Developer,database api development python flask
+Machine Learning Engineer,mlops python tensorflow pytorch model deployment
+Data Scientist,numpy statistics pandas sklearn
+DevOps Engineer,kubernetes linux aws docker
+Database Administrator,performance tuning recovery database management sql backup
+Software Engineer,system design java c++ data structures algorithms
+DevOps Engineer,aws kubernetes ci cd monitoring
+Software Engineer,data structures java system design c++
+Machine Learning Engineer,mlops pytorch tensorflow deep learning python
+Data Analyst,data cleaning powerbi sql excel python
+Data Analyst,tableau sql python data cleaning excel powerbi
+Blockchain Developer,ethereum solidity web3 smart contracts
+Data Analyst,tableau powerbi python sql data cleaning
+Frontend Developer,html redux react javascript css
+Machine Learning Engineer,deep learning tensorflow model deployment pytorch mlops python
+Data Analyst,python tableau data cleaning sql powerbi excel
+AI Engineer,tensorflow nlp computer vision python deep learning
+Cybersecurity Analyst,ethical hacking vulnerability assessment encryption network security
+Blockchain Developer,web3 ethereum smart contracts solidity
+Data Scientist,pandas data visualization statistics sklearn
+Software Engineer,system design c++ algorithms java
+Data Scientist,pandas data visualization machine learning numpy
+QA Engineer,testing test cases debugging selenium
+Machine Learning Engineer,deep learning tensorflow python model deployment mlops pytorch
+Backend Developer,flask python sql api development database
+Machine Learning Engineer,model deployment python pytorch deep learning
+AI Engineer,computer vision nlp tensorflow deep learning python
+Blockchain Developer,web3 smart contracts ethereum solidity
+Database Administrator,sql recovery backup database management performance tuning
+Cybersecurity Analyst,encryption vulnerability assessment network security ethical hacking
+Data Scientist,pandas python sklearn machine learning numpy
+AI Engineer,deep learning python tensorflow nlp
+Database Administrator,database management backup recovery sql performance tuning
+Data Analyst,tableau python data cleaning powerbi sql excel
+Data Analyst,excel python powerbi sql data cleaning tableau
+Cybersecurity Analyst,network security vulnerability assessment encryption ethical hacking
+QA Engineer,debugging test cases selenium testing
+Software Engineer,algorithms data structures system design java
+Machine Learning Engineer,deep learning pytorch tensorflow model deployment mlops python
+Mobile App Developer,ios java android swift
+Database Administrator,performance tuning backup recovery database management
+QA Engineer,debugging testing selenium test cases automation
+Data Scientist,machine learning data visualization statistics pandas sklearn
+DevOps Engineer,docker kubernetes ci cd monitoring
+Cloud Engineer,gcp cloud architecture azure aws security networking
+Software Engineer,c++ java system design data structures
+Mobile App Developer,java ios kotlin android swift
+Backend Developer,python django api development sql database
+AI Engineer,computer vision tensorflow python deep learning nlp
+Data Analyst,sql data cleaning tableau excel powerbi
+Blockchain Developer,web3 smart contracts ethereum solidity
+Data Scientist,machine learning python numpy data visualization pandas statistics
+AI Engineer,python computer vision tensorflow deep learning
+Blockchain Developer,web3 solidity ethereum smart contracts
+QA Engineer,testing automation debugging test cases selenium
+Database Administrator,database management sql backup recovery performance tuning
+Full Stack Developer,mongodb nodejs css react javascript
+Frontend Developer,javascript react html responsive design css redux
+QA Engineer,debugging selenium test cases testing
+Blockchain Developer,ethereum solidity smart contracts web3
+Data Analyst,tableau sql data cleaning python excel powerbi
+Machine Learning Engineer,pytorch tensorflow python model deployment deep learning
+Mobile App Developer,kotlin ios swift android
+Backend Developer,api development python flask sql django database
+Software Engineer,data structures algorithms c++ java system design
+Cybersecurity Analyst,vulnerability assessment ethical hacking encryption network security
+Data Analyst,excel powerbi python tableau data cleaning
+Data Analyst,data cleaning sql powerbi tableau python excel
+Frontend Developer,react javascript responsive design css
+Data Scientist,sklearn python statistics machine learning pandas
+Cloud Engineer,aws azure gcp security
+Blockchain Developer,ethereum web3 solidity smart contracts
+Software Engineer,c++ algorithms data structures java system design
+DevOps Engineer,monitoring docker ci cd linux
+Machine Learning Engineer,deep learning pytorch mlops python
+Cloud Engineer,aws cloud architecture networking azure security gcp
+Blockchain Developer,smart contracts web3 solidity ethereum
+Machine Learning Engineer,deep learning python tensorflow model deployment pytorch
+AI Engineer,computer vision python tensorflow deep learning
+Data Scientist,sklearn machine learning pandas numpy
+Frontend Developer,html javascript css react
+Backend Developer,api development database flask django
+Machine Learning Engineer,tensorflow mlops deep learning python
+QA Engineer,selenium debugging testing automation test cases
+Cybersecurity Analyst,network security vulnerability assessment ethical hacking encryption
+AI Engineer,nlp python tensorflow computer vision
+Data Scientist,data visualization numpy statistics pandas machine learning sklearn
+Blockchain Developer,smart contracts ethereum web3 solidity
+Software Engineer,system design c++ data structures algorithms
+Machine Learning Engineer,model deployment deep learning mlops pytorch
+Data Analyst,data cleaning sql powerbi excel tableau
+Data Scientist,statistics machine learning data visualization python pandas numpy
+Frontend Developer,html redux responsive design react css javascript
+Data Analyst,tableau data cleaning excel powerbi sql
+Database Administrator,backup sql recovery performance tuning
+QA Engineer,test cases testing selenium debugging automation
+QA Engineer,test cases automation testing debugging selenium
+AI Engineer,nlp python deep learning tensorflow computer vision
+DevOps Engineer,monitoring aws kubernetes ci cd
+Cybersecurity Analyst,ethical hacking encryption network security vulnerability assessment
+Cloud Engineer,aws security gcp networking cloud architecture azure
+Cloud Engineer,azure gcp networking security cloud architecture aws
+Data Scientist,python sklearn pandas numpy data visualization statistics machine learning
+QA Engineer,selenium automation testing test cases
+Backend Developer,python database sql django flask api development
+Full Stack Developer,react mongodb javascript html css nodejs
+Machine Learning Engineer,mlops python deep learning model deployment pytorch
+Data Analyst,sql data cleaning tableau excel powerbi python
+Software Engineer,c++ algorithms java data structures system design
+Full Stack Developer,javascript html react css
+Blockchain Developer,solidity web3 ethereum smart contracts
+Database Administrator,performance tuning recovery database management sql backup
+Backend Developer,python django api development flask
+Software Engineer,algorithms java data structures system design
+Cloud Engineer,cloud architecture security networking gcp azure aws
+Frontend Developer,javascript html css redux
+AI Engineer,tensorflow deep learning computer vision nlp
+DevOps Engineer,linux aws docker kubernetes ci cd monitoring
+Backend Developer,flask python api development django
+Blockchain Developer,solidity web3 smart contracts ethereum
+Data Analyst,powerbi data cleaning python tableau excel
+Data Analyst,powerbi excel python data cleaning tableau
+Full Stack Developer,nodejs css javascript react html mongodb
+Machine Learning Engineer,model deployment pytorch mlops python deep learning
+Full Stack Developer,mongodb react css javascript html nodejs
+Cybersecurity Analyst,ethical hacking network security encryption vulnerability assessment
+Database Administrator,backup recovery performance tuning sql database management
+Mobile App Developer,ios java swift kotlin android
+DevOps Engineer,linux docker monitoring kubernetes
+Cybersecurity Analyst,ethical hacking vulnerability assessment encryption network security
+DevOps Engineer,ci cd docker monitoring linux aws
+QA Engineer,test cases testing debugging selenium automation
+Blockchain Developer,web3 smart contracts ethereum solidity
+QA Engineer,debugging test cases automation testing selenium
+Full Stack Developer,nodejs react html javascript
+DevOps Engineer,docker aws ci cd monitoring
+Mobile App Developer,android kotlin java swift
+Full Stack Developer,html javascript react mongodb
+Database Administrator,sql performance tuning backup recovery
+Cybersecurity Analyst,encryption ethical hacking vulnerability assessment network security
+Cybersecurity Analyst,vulnerability assessment encryption ethical hacking network security
+Data Analyst,sql data cleaning tableau excel powerbi
+Machine Learning Engineer,python deep learning mlops pytorch model deployment
+Cloud Engineer,cloud architecture security networking azure gcp
+Frontend Developer,css responsive design react javascript html redux
+Database Administrator,recovery sql database management backup
+Cybersecurity Analyst,encryption vulnerability assessment ethical hacking network security
+QA Engineer,testing debugging test cases automation
+QA Engineer,testing test cases selenium debugging automation
+Cybersecurity Analyst,ethical hacking vulnerability assessment encryption network security
+Data Scientist,statistics sklearn machine learning pandas
+Machine Learning Engineer,model deployment deep learning pytorch python tensorflow
+Software Engineer,c++ algorithms system design java
+Mobile App Developer,android kotlin ios swift
+Software Engineer,algorithms data structures c++ java
+Frontend Developer,css javascript react redux html responsive design
+QA Engineer,testing automation selenium debugging
+Database Administrator,recovery backup performance tuning database management sql
+QA Engineer,selenium automation test cases testing
+DevOps Engineer,kubernetes linux ci cd aws docker monitoring
+Full Stack Developer,mongodb react css html
+QA Engineer,automation selenium test cases debugging
+DevOps Engineer,aws docker linux monitoring kubernetes
