@@ -44,7 +44,7 @@ function App() {
       const response = await axios.post(`${API_URL}/predict`, formData);
 
 
-      setResults(response.data.results || []);
+      setResults(response.data.top_matches || []);
     } catch (error) {
       console.error(error);
       alert("Server error. Please check backend.");
